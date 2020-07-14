@@ -34,6 +34,8 @@ dependencies:
   rxdart: ^0.24.1
   chopper: ^3.0.3
   json_annotation: ^3.0.1
+  dartz: ^0.9.1
+
 
 
 dev_dependencies:
